@@ -21,3 +21,16 @@ För att köra notebooken:
 - Hur ser prisfördelningen ut bland Steam-spel?
 
 ## Struktur
+
+notebook.ipynb   # Huvudanalys
+data/            # Datafiler (ej inkluderade i repot, se ovan)
+README.md        # Den här filen
+requirements.txt # Python-paket som behövs
+
+## Köra projektet
+
+Installera beroenden:
+pip install -r requirements.txt
+
+Starta Jupyter:
+jupyter notebook
